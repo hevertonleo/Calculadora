@@ -19,3 +19,4 @@ function calcular() {
         setTimeout(limpar, 1500);
     }
 }
+h
